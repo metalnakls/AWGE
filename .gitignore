@@ -95,3 +95,9 @@ scripts/diag/
 /genpresets
 /internal/presets/decompiled/
 /build/tools/.design/
+
+# Private local integration settings
+.mcp.json
+
+# Raycast extension manifests are source files
+!raycast/awgm-hrneo-domain/package.json
